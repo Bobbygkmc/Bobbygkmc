@@ -12,7 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bobbygkmc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->mc/Bobbygkmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->/Bobbygkmc** is a repository for the `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
